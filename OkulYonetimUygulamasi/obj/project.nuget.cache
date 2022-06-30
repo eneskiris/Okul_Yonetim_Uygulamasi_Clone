@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AV4bsXA3BU3hUsh2pY4CJlOw3IRXDAf1FfHRccYMgBtUdBuf7mFfFH/TG1FEDPE9XNTLs1iqVLL1FOR0k227Xw==",
+  "success": true,
+  "projectFilePath": "/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/OkulYonetimUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "/Users/eneskiris/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/eneskiris/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512",
+    "/Users/eneskiris/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi.deps.json
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi.runtimeconfig.json
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi.runtimeconfig.dev.json
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi.dll
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/bin/Debug/netcoreapp3.1/OkulYonetimUygulamasi.pdb
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.AssemblyInfo.cs
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.dll
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.pdb
+/Users/eneskiris/Desktop/Okul_Yonetim_Uygulamasi_Clone/OkulYonetimUygulamasi/obj/Debug/netcoreapp3.1/OkulYonetimUygulamasi.genruntimeconfig.cache

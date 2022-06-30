@@ -1,0 +1,1 @@
+# Okul_Yonetim_Uygulamasi_Clone
